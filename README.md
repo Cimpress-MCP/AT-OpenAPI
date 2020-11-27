@@ -1,6 +1,6 @@
 # AT Squad OpenAPI Wrapper
 
-A wrapper around Open API with logging and error handling
+A wrapper around Open API with logging and error handling.
 
 ## Using this library
 
