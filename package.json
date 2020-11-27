@@ -25,7 +25,7 @@
   "homepage": "https://github.com/Cimpress-MCP/AT-OpenAPI#readme",
   "dependencies": {
     "jsonwebtoken": "8.5.1",
-    "openapi-factory": "5.0.260"
+    "openapi-factory": "4.4.226"
   },
   "peerDependencies": {
     "aws-sdk": "^2.0.0"
