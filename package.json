@@ -13,6 +13,9 @@
     "test": "jest",
     "lint": "eslint --ext .ts src"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Cimpress-MCP/AT-OpenAPI.git"
