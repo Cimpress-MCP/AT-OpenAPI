@@ -27,7 +27,7 @@ export const lambdaHandler = api.handler;
 
 ## Contribution
 
-We value your input as part of direct feedback to us, by filing issues, or preferably by directly contributing improvements:
+We value your input as part of direct feedback to us, by filing issues, or by directly contributing improvements:
 
 1. Fork this repository
 1. Create a branch
