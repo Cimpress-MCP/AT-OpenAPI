@@ -1,6 +1,6 @@
 {
   "name": "@alphatango/openapi",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Wrapper around openapi-factory",
   "main": "lib/index.js",
   "private": false,
