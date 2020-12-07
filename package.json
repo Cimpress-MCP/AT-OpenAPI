@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/Cimpress-MCP/AT-OpenAPI#readme",
   "dependencies": {
+    "@alphatango/exceptions": "^0.0.4",
     "jsonwebtoken": "8.5.1",
     "openapi-factory": "4.4.226"
   },

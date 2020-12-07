@@ -1,9 +1,8 @@
 import OpenApi from 'openapi-factory';
 import jwt from 'jsonwebtoken';
+import { Exception, serialize } from '@alphatango/exceptions';
 import { ApiRequest } from './apiRequestModel';
 import { ApiResponse } from './apiResponseModel';
-import { Exception } from './exceptions/exception';
-import { serialize } from './util';
 
 export class OpenApiWrapper {
   private readonly notSet = 'not-set';

@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@alphatango/exceptions@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@alphatango/exceptions/-/exceptions-0.0.4.tgz#65d329758e98819399962eca8f3ccd8ef04900f3"
+  integrity sha512-JhKZYzz7kVdPZ9N2n9SZFb0GlZQFZOP+YPetkAIXsLWh6gxbwrH4LNUEYtBnrJSKGSLOPKOK1jI9+Xyr+Jx1FA==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4":
   version "7.10.4"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.10.4.tgz#168da1a36e90da68ae8d49c0f1b48c7c6249213a"
@@ -3715,10 +3720,10 @@ onetime@^5.1.0:
   dependencies:
     mimic-fn "^2.1.0"
 
-openapi-factory@5.0.260:
-  version "5.0.260"
-  resolved "https://registry.yarnpkg.com/openapi-factory/-/openapi-factory-5.0.260.tgz#bb976af92e8f21747f8bbd7766ca1c022ca0e109"
-  integrity sha512-EeystyK46XiOEyQLLsx7dKlp4Dby62P4KQnOWTAGMcbPQyni9Lpe5qPerCiXw2KIWuWAl1D14nlx8XM7jCXi/Q==
+openapi-factory@4.4.226:
+  version "4.4.226"
+  resolved "https://registry.yarnpkg.com/openapi-factory/-/openapi-factory-4.4.226.tgz#f9dd38bca7b29c6f601e7abcedd9bbe1c47b524d"
+  integrity sha512-yF1PHYL0oeEbogyE/PMLUqFjYvl+p1UjnPRZRyGHcPOR6SWGTKRBIyfnRX6i7EOB+cupcZeQ6J79lSq8N6yVrQ==
 
 opencollective-postinstall@^2.0.2:
   version "2.0.3"
