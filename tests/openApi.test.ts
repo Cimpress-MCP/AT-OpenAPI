@@ -1,7 +1,6 @@
+import { ForbiddenException, InternalException } from '@alphatango/exceptions';
 import { OpenApiWrapper } from '../src/openApiWrapper';
 import { ApiResponse } from '../src/apiResponseModel';
-import { InternalException } from '../src/exceptions/internalException';
-import { ForbiddenException } from '../src/exceptions/forbiddenException';
 import { ApiRequest } from '../src/apiRequestModel';
 
 describe('Open API Wrapper', () => {

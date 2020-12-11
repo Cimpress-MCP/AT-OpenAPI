@@ -1,6 +1,6 @@
 {
   "name": "@alphatango/openapi",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Wrapper around openapi-factory",
   "main": "lib/index.js",
   "private": false,
@@ -27,14 +27,14 @@
   },
   "homepage": "https://github.com/Cimpress-MCP/AT-OpenAPI#readme",
   "dependencies": {
-    "@alphatango/exceptions": "^0.0.4",
     "jsonwebtoken": "8.5.1",
     "openapi-factory": "4.4.226"
   },
   "peerDependencies": {
-    "aws-sdk": "^2.0.0"
+    "@alphatango/exceptions": "~2.0.0"
   },
   "devDependencies": {
+    "@alphatango/exceptions": "~2.0.0",
     "@types/jest": "26.0.8",
     "@types/uuid": "8.3.0",
     "eslint": "7.5.0",
